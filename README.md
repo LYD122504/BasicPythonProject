@@ -7,8 +7,8 @@
 ## 📂 项目名录及更新记录
 
 ### 智能仓储系统 `[2026.03.22 - 2026.03.23]`
-- **项目简介**：[Readme](.\Advanced_Inventory_Engine\Note\Readme.md)
-- **项目笔记**：[Note](.\Advanced_Inventory_Engine\Note\Note.md)
+- **项目简介**：[Readme](./Advanced_Inventory_Engine/Note/Readme.md)
+- **项目笔记**：[Note](./Advanced_Inventory_Engine/Note/Note.md)
 - **状态**：✅ 已完成
 - **核心代码**： Python 底层性能的库存管理系统。
 - **技术栈**：元类 (Metaclass)、描述符 (Descriptors)、闭包折扣引擎、`ThreadPoolExecutor` 万级数据并发处理。
