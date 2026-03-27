@@ -24,13 +24,30 @@
 ### 外星人入侵 ` [2026.03.24 - 2026.03.25] `
 
 * **项目简介**：基于 Pygame 的经典 2D 射击游戏，重点实现数据持久化排行榜与模块化架构。 
+
 * **Readme:**  [查看详情](./Alien_Invasion/Readme.md) 
+
 * **项目笔记:** [查看详情](./Alien_Invasion/Note.md) 
+
 * **状态**：✅ 已完成
+
 * **代码:** [核心代码](./Alien_Invasion/)
+
 * **技术栈**：Pygame, File IO, Lambda Sorting, Sprite Groups. 
+
 * **更新记录:**
   * `2026.03.25` 上传核心代码与笔记。
+  
+### **数据可视化实战 `[2026.03.26 - 2026.03.27]`**
+
+- **项目简介**：[Readme: 查看详情](./Data_Visual/Readme.md)
+- **项目笔记**：[Note: 查看详情](./Data_Visual/Readme.md)
+- **状态**：✅ 已完成
+- **核心代码**：[Python 数据处理与动态渲染流](./Data_Visual/)
+- **技术栈**：Matplotlib, Plotly Express, Requests API, CSV/JSON 解析, `datetime` 转换。
+- **更新记录**：
+  - **2026.03.27**：上传核心代码与笔记。
+
 
 
 ---
